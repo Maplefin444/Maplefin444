@@ -5,7 +5,7 @@ Aliases: Maple, Maplefin, Maplefin444, Maplefin102, greenfin102
 
 ## About Me
 
-I'm just a programmer 👍
+I do stuff sometimes
 (if you want to know more about me, reach out!)
 
 ## Skills
