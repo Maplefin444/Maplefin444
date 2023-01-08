@@ -42,7 +42,7 @@ CyberPatriot XIV Semifinals: 4th in Canada
 PicoCTF 2021/2022: 19th in Canada
 n00bzCTF 2022: 21st overall
 BlueHens CTF 2022: 31st overall
-CTFtime: *Currently* 8th in Canada
+CTFtime 2022: 8th in Canada, 587th globally
 ```
 
 ## Contact Information:
