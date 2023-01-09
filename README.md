@@ -21,7 +21,6 @@ I do stuff sometimes
 - Photoshop/image editing
 - JS (p5.js, react)
 ```
-
 ## Interests
 ```
 - Retro gaming
@@ -43,6 +42,7 @@ PicoCTF 2021/2022: 19th in Canada
 n00bzCTF 2022: 21st overall
 BlueHens CTF 2022: 31st overall
 CTFtime 2022: 8th in Canada, 587th globally
+IrisCTF 2023: 1st in Canada, 16th overall
 ```
 
 ## Contact Information:
