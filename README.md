@@ -41,6 +41,7 @@ CyberPatriot XIV Semifinals: 4th in Canada
 CyberPatriot XV Round 1: 13th in Canada, 88th overall
 CyberPatriot XV Round 2: 3rd in Canada, 44th overall
 CyberPatriot XV State Round: 4th in Canada, 33rd overall
+CyberPatriot XV Semifinals: 2nd in Canada, 15th overall
 
 PicoCTF 2021/2022: 19th in Canada
 n00bzCTF 2022: 21st overall
@@ -48,7 +49,7 @@ BlueHens CTF 2022: 31st overall
 CTFtime 2022: Team finished 8th in Canada, 587th globally
 
 IrisCTF 2023: 1st in Canada, 16th overall
-CTFtime 2023: Currently 1st in Canada, 184th globally
+CTFtime 2023: Currently 2nd in Canada, 215th globally
 ```
 
 ## Contact Information:
