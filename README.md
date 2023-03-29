@@ -50,7 +50,8 @@ CTFtime 2022: Team finished 8th in Canada, 587th globally
 
 IrisCTF 2023: 1st in Canada, 16th overall
 WXMCTF 2023: Organizer, created pwn3, pwn4, and pwncrypto5
-CTFtime 2023: Currently 2nd in Canada, 215th globally
+CTFtime 2023: Currently 12th in Canada, 933rd globally
+PicoCTF 2022/2023: 54th internationally
 ```
 
 ## Contact Information:
