@@ -38,6 +38,7 @@ CyberPatriot XIV Round 1: 4th in Canada, 48th overall
 CyberPatriot XIV Round 2: 7th in Canada, 62nd overall
 CyberPatriot XIV State Round: 11th in Canada
 CyberPatriot XIV Semifinals: 4th in Canada
+
 CyberPatriot XV Round 1: 13th in Canada, 88th overall
 CyberPatriot XV Round 2: 3rd in Canada, 44th overall
 CyberPatriot XV State Round: 4th in Canada, 33rd overall
@@ -49,11 +50,19 @@ BlueHens CTF 2022: 31st overall
 CTFtime 2022: Team finished 8th in Canada, 587th globally
 
 IrisCTF 2023: 1st in Canada, 16th overall
-WXMCTF 2023: Organizer, created pwn3, pwn4, and pwncrypto5
-CTFtime 2023: Currently 12th in Canada, 933rd globally
 PicoCTF 2022/2023: 54th internationally
+
+Organizer of LyonHacks III
+Organizer of WXMCTF 2023: Organizer, created pwn3, pwn4, and pwncrypto5
 ```
 
+## Projects I'm Interested In:
+
+```
+- p5.js
+- Framework Laptops (13 and 16)
+- KDE
+```
 ## Contact Information:
 james.huynh444@gmail.com
 
