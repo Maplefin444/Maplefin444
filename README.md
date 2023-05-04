@@ -65,9 +65,9 @@ Organizer of WXMCTF 2023: Organizer, created pwn3, pwn4, and pwncrypto5
 - KDE
 ```
 ## Contact Information:
-james.huynh444@gmail.com
+`james.huynh444 [at] gmail.com`
 
-Maple#0929
+`Maple #0929`
 
 ## Relevant Social Media:
 [Spotify](https://open.spotify.com/user/psqonnyomsh8gkqw09rj2ly5j)
