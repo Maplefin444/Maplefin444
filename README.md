@@ -43,7 +43,7 @@ CyberPatriot XV Round 1: 13th in Canada, 88th overall
 CyberPatriot XV Round 2: 3rd in Canada, 44th overall
 CyberPatriot XV State Round: 4th in Canada, 33rd overall
 CyberPatriot XV Semifinals: 2nd in Canada, 15th overall
-Competitor in CyberTitan IV
+5th in Canada in CyberTitan IV
 
 PicoCTF 2021/2022: 19th in Canada
 n00bzCTF 2022: 21st overall
@@ -55,6 +55,8 @@ PicoCTF 2022/2023: 54th internationally
 
 Organizer of LyonHacks III
 Organizer of WXMCTF 2023: Organizer, created pwn3, pwn4, and pwncrypto5
+
+CISCO IT Essentials Certification (https://www.credly.com/badges/c735b36a-61c7-4c41-af78-b5a56f29afd2)
 ```
 
 ## Projects I'm Interested In:
