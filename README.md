@@ -67,9 +67,9 @@ CISCO IT Essentials Certification (https://www.credly.com/badges/c735b36a-61c7-4
 - KDE
 ```
 ## Contact Information:
-`james.huynh444 [at] gmail.com`
+Email: `james.huynh444 [at] gmail.com`
 
-`Maple #0929`
+Discord: `maplefin`
 
 ## Relevant Social Media:
 [Spotify](https://open.spotify.com/user/psqonnyomsh8gkqw09rj2ly5j)
