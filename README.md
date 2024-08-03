@@ -5,7 +5,8 @@ Aliases: Maple, Maplefin, Maplefin444, Maplefin102, greenfin102
 
 ## About Me
  
-I'm a student at William Lyon Mackenzie, and I do stuff sometimes
+UOFT 2T8 ECE
+William Lyon Mackenzie '24 MaCS Program
 (if you want to know more about me, reach out!)
 
 ## Skills
@@ -23,6 +24,7 @@ I'm a student at William Lyon Mackenzie, and I do stuff sometimes
 ```
 ## Interests
 ```
+- Yoyoing (Favourite throw: Polyform TS3)
 - Retro gaming
 - Lost media
 - Modern rock
@@ -52,6 +54,8 @@ CTFtime 2022: Team finished 8th in Canada, 587th globally
 
 IrisCTF 2023: 1st in Canada, 16th overall
 PicoCTF 2022/2023: 54th internationally
+
+n00bzCTF 2024: 2nd overall, 1st in highschool division
 
 Organizer of LyonHacks III
 Organizer of WXMCTF 2023: Organizer, created pwn3, pwn4, and pwncrypto5
