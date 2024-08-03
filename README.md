@@ -6,7 +6,9 @@ Aliases: Maple, Maplefin, Maplefin444, Maplefin102, greenfin102
 ## About Me
  
 UOFT 2T8 ECE
+
 William Lyon Mackenzie '24 MaCS Program
+
 (if you want to know more about me, reach out!)
 
 ## Skills
