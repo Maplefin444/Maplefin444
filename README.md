@@ -16,6 +16,8 @@ William Lyon Mackenzie '24 MaCS Program
 - Linux cybersecurity
 - Binary exploitation
 - C language
+- Perl
+- HTML & CSS
 - 8085 assembly
 - NASM assembly
 - Godot game engine
