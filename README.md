@@ -76,12 +76,3 @@ CISCO IT Essentials Certification (https://www.credly.com/badges/c735b36a-61c7-4
 Email: `james.huynh444 [at] gmail.com`
 
 Discord: `maplefin`
-
-## Relevant Social Media:
-[Spotify](https://open.spotify.com/user/psqonnyomsh8gkqw09rj2ly5j)
-
-[Steam](https://steamcommunity.com/profiles/76561198189481409)
-
-[CTFtime](https://ctftime.org/user/132650)
-
-[Musixmatch](https://www.musixmatch.com/profile/3vUCAHyqsk8VQhPCD-B2KwrbR7zsA2WiTS5RCzSOPAWIHvC_7P7VLfhRjQSDWwEjyHIjHVALHKmNA3ZOhADpseZ8-is3Q_3s1aitAiQv_nGhk-M3MKivRXAJTmpGqOyYQ_zoIJWf1JdM_4FHvH__Q-vFZlM)
