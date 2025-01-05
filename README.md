@@ -26,16 +26,6 @@ William Lyon Mackenzie '24 MaCS Program
 - Photoshop/image editing
 - JS (p5.js, react)
 ```
-## Interests
-```
-- Yoyoing (Favourite throw: Polyform TS3)
-- Retro gaming
-- Lost media
-- Modern rock
-- Custom keyboards (I have an EP84 with jelly blacks 🙂)
-- Electronics
-- Game development
-```
 
 ## Awards/Significant Accomplishments
 
@@ -65,6 +55,17 @@ Organizer of LyonHacks III
 Organizer of WXMCTF 2023: Organizer, created pwn3, pwn4, and pwncrypto5
 
 CISCO IT Essentials Certification (https://www.credly.com/badges/c735b36a-61c7-4c41-af78-b5a56f29afd2)
+```
+
+## Interests
+```
+- Yoyoing (Favourite throw: Polyform TS3)
+- Retro gaming
+- Lost media
+- Modern rock
+- Custom keyboards (I have an EP84 with jelly blacks 🙂)
+- Electronics
+- Game development
 ```
 
 ## Projects I'm Interested In:
